@@ -45,9 +45,6 @@ Temporary Items
 # User's project preferences
 *.user*
 
-# Build dir
-build-*
-
 # Binaries
 bin/*
 
@@ -62,3 +59,4 @@ bin/*
 /src/Candle_resource.aps
 /src/Candle_resource.rc
 /src/ui_*
+/src/cmake-build-*

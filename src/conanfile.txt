@@ -1,0 +1,11 @@
+[requires]
+qt/5.15.12
+
+[options]
+qt:qtserialport=True
+qt:qttools=True
+qt:shared=True
+
+[generators]
+CMakeDeps
+CMakeToolchain
